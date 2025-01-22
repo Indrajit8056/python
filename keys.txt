@@ -1,0 +1,6 @@
+('John', 'Doe', 'john.doe@example.com', '123-456-7890', '2023-01-15', 'Software Engineer', 75000.00, 101),
+('Jane', 'Smith', 'jane.smith@example.com', '987-654-3210', '2022-11-20', 'Data Analyst', 68000.00, 102),
+('Michael', 'Johnson', 'michael.johnson@example.com', '555-123-4567', '2021-08-30', 'Product Manager', 90000.00, 103),
+('Emily', 'Davis', 'emily.davis@example.com', '444-567-8901', '2024-03-10', 'HR Specialist', 60000.00, 104),
+('David', 'Brown', 'david.brown@example.com', '321-654-9870', '2022-06-25', 'Marketing Manager', 80000.00, 105),
+('Sophia', 'Wilson', 'sophia.wilson@example.com', '777-888-9999', '2020-12-05', 'Operations Lead', 95000.00, 106);
